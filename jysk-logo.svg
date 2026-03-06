@@ -1,0 +1,16 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue banner -->
+  <rect width="420" height="120" fill="#003A8F"></rect>
+  
+  <!-- Simplified goose icon -->
+  <path d="M60 75 
+           C40 70, 40 40, 65 40
+           C75 40, 80 50, 78 58
+           C90 58, 95 70, 80 75
+           Z" fill="white"></path>
+
+  <!-- JYSK text -->
+  <text x="120" y="78" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="bold" fill="white">
+        JYSK
+  </text>
+</svg>
